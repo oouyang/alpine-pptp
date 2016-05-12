@@ -5,4 +5,4 @@ RUN apk add --update pptpd iptables bash && \
 
 ADD root /
 
-EXPOSE 1173
+EXPOSE 1723
